@@ -11,8 +11,16 @@
         $sum = $a+$b;
         return $sum;
 
+
     }
     echo "The sum is equal to ".names(12,22);
+
+    ?>
+    <?php
+    echo "<br>";
+    echo "<br>";
+
+    echo date("D-m-Y, h:i:s");
     
     ?>
 </body>
